@@ -2,6 +2,8 @@
 
 {% embed url="<https://www.youtube.com/watch?v=EiI44NPEvvI>" %}
 
+Download FearX-Chat for free on [Tebex](https://fearx.store/package/7770451) or [GitHub](https://github.com/Facelessxxx/FearX-Advanced-Free-Chat).
+
 If you're interested in purchasing additional scripts or assets, you can browse and buy them from our official store [here](https://fearx.store/).
 
 FearX-Chat is a full replacement for the default FiveM chat, built for PvP and RP servers. It ships with proper channels, RP commands, cosmetic name tags and avatar decorations, a staff panel and auto-moderation that works out of the box. It provides `chat`, so every script built for the default chat keeps working with zero changes.
