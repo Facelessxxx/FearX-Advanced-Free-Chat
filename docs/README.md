@@ -1,6 +1,6 @@
 # FearX-Chat
 
-{% embed url="<https://www.youtube.com/watch?v=VIDEO_ID>" %}
+{% embed url="<https://www.youtube.com/watch?v=EiI44NPEvvI>" %}
 
 If you're interested in purchasing additional scripts or assets, you can browse and buy them from our official store [here](https://fearx.store/).
 
